@@ -1,5 +1,10 @@
 title: "My Blog"
-description: "Thoughts, projects, and ideas"
-baseurl: "" 
+description: "A custom Jekyll blog with my own design"
+baseurl: ""
 url: "https://username.github.io"
-theme: null
+theme: null   # ensures Jekyll uses your layouts
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
