@@ -1,1 +1,5 @@
-theme: minima
+title: "My Blog"
+description: "Thoughts, projects, and ideas"
+baseurl: "" 
+url: "https://username.github.io"
+theme: null
